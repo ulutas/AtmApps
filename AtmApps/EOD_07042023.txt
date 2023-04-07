@@ -1,0 +1,8 @@
+Transaction Log
+
+1234: 1025
+5678: 2000
+9012: 3000
+Error Log
+
+Hatalı giriş denemeleri logları burada yer alacak.
